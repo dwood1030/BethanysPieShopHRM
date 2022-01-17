@@ -32,6 +32,15 @@ namespace BethanysPieShopHRM
             bool a;
             int b;
 
+            int intMaxVariable = int.MaxValue;
+            int intMinValue = Int32.MinValue;
+
+            char userSelection = 'a';
+            char upperVersion = char.ToUpper(userSelection);
+            bool isDigit = char.IsDigit(userSelection);
+            bool isLetter = char.IsLetter(userSelection);
+            
+
             Console.ReadLine();
         }
     }
