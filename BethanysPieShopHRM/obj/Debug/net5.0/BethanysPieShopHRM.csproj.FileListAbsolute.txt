@@ -1,0 +1,16 @@
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.exe
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.deps.json
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.json
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.runtimeconfig.dev.json
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.dll
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\ref\BethanysPieShopHRM.dll
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\bin\Debug\net5.0\BethanysPieShopHRM.pdb
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.dll
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\ref\BethanysPieShopHRM.dll
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.pdb
+C:\Users\dalto\Documents\development\codelouisville-projects\pluralsight-projects\bethanys-pie-shop-hr\BethanysPieShopHRM\obj\Debug\net5.0\BethanysPieShopHRM.genruntimeconfig.cache

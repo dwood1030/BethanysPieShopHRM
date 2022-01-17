@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jq/ZCIA7XNzIE+WhRPy4jhbn+zAPcEivLD2FbglhaWB3k4/pC7MX1N+8q/qNdmSm0erW0ahnJHIuHpKu9j7LHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalto\\Documents\\development\\codelouisville-projects\\pluralsight-projects\\bethanys-pie-shop-hr\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
